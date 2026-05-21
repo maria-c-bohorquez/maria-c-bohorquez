@@ -45,7 +45,6 @@ I don't look at product features purely through a UX lens; I evaluate them throu
     <td width="75%">CMS/DAM Architecture • Technical QA & Delivery • Workflow Automation • Data Integrity Auditing</td>
   </tr>
   <tr>
-
     <td width="25%" valign="top"><b>🎯 TARGET SECTORS</b></td>
     <td width="75%">Video Gaming (Live Services) • E-Commerce Retailing • Digital Media • FinTech</td>
   </tr>
@@ -56,10 +55,11 @@ I don't look at product features purely through a UX lens; I evaluate them throu
 ### 📦 FEATURED CASE STUDY
 
 ### **Transforming the Nintendo eShop into an AI-Powered Discovery Hub**
-[Wishlist] ────────> Private, Transactional ──> "I want to buy later"
-[Game Stash] ──────> Public, Curational    ──> "Look at what I've curated"
 
 * **The Challenge:** The Nintendo eShop functions as a flat, transactional checkout counter rather than a discovery hub, causing massive user browsing fatigue and completely burying high-margin indie titles.
+* **The Core Distinction:**
+  * 🏷️ **Wishlist (Private & Transactional)** &mdash; *"I want to buy this title later."* Tracks immediate buying intent and checkout funnels.
+  * 🎒 **Game Stash (Public & Curational)** &mdash; *"Look at what I have curated."* Acts as a digital trophy shelf to drive community validation and long-tail indie discovery.
 * **The Solution:** I architected a multi-device, risk-mitigated platform roadmap that leverages Nintendo's existing Switch 2 AI investment. By introducing gamified community **"Stashes"** to separate social curation from private wishlists, the platform creates an organic marketing flywheel.
 
 👉 **[Read the Full Executive Case Study & View Prototype Layouts](./nintendo-eshop-case-study.md)**
@@ -75,7 +75,7 @@ I don't look at product features purely through a UX lens; I evaluate them throu
       <p style="font-size: 14px; color: #64748b;">Detailed Professional Timeline & History</p>
     </td>
     <td width="50%" align="right">
-      <h4>📥 <a href="YOUR_LINKEDIN_URL">CONNECT ON LINKEDIN</a></h4>
+      <h4>📥 <a href="https://linkedin.com">CONNECT ON LINKEDIN</a></h4>
       <p style="font-size: 14px; color: #64748b;">Professional Networking & Collaboration</p>
     </td>
   </tr>
