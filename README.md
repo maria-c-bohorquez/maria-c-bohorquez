@@ -77,7 +77,47 @@
 <br style="clear: both;" />
 
 <br />
+---
+<br />
+<br />
 
+---
+
+<br />
+
+<h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: -0.8px; color: #111111; text-transform: uppercase; margin-top: 0; margin-bottom: 25px;">Skills Inventory</h3>
+
+<p style="float: left; width: 48%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 0; margin-bottom: 30px;">
+  <strong style="font-size: 16px; font-weight: 700; color: #111111; display: block; margin-bottom: 6px; letter-spacing: -0.3px; text-transform: uppercase;">Product Strategy & Discovery</strong>
+  <span style="font-size: 14.5px; line-height: 1.6; color: #52525b; display: block;">
+    Product Discovery, User Research, User Stories & Acceptance Criteria, Roadmap Visualization, Agile/Scrum Frameworks.
+  </span>
+</p>
+
+<p style="float: right; width: 48%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 0; margin-bottom: 30px;">
+  <strong style="font-size: 16px; font-weight: 700; color: #111111; display: block; margin-bottom: 6px; letter-spacing: -0.3px; text-transform: uppercase;">Technical Delivery & QA</strong>
+  <span style="font-size: 14.5px; line-height: 1.6; color: #52525b; display: block;">
+    Technical Documentation, QA Testing, Bug Backlog Management, JIRA, Confluence.
+  </span>
+</p>
+
+<br style="clear: both;" />
+
+<p style="float: left; width: 48%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 0; margin-bottom: 20px;">
+  <strong style="font-size: 16px; font-weight: 700; color: #111111; display: block; margin-bottom: 6px; letter-spacing: -0.3px; text-transform: uppercase;">Design & Asset Operations</strong>
+  <span style="font-size: 14.5px; line-height: 1.6; color: #52525b; display: block;">
+    Adobe Photoshop, Adobe Illustrator, Creative Asset Pipelines, Design Systems Architecture.
+  </span>
+</p>
+
+<p style="float: right; width: 48%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 0; margin-bottom: 20px;">
+  <strong style="font-size: 16px; font-weight: 700; color: #111111; display: block; margin-bottom: 6px; letter-spacing: -0.3px; text-transform: uppercase;">Growth & Web Performance</strong>
+  <span style="font-size: 14.5px; line-height: 1.6; color: #52525b; display: block;">
+    Technical SEO Optimization, Web Accessibility Standards (WCAG Compliance), Content Management Systems (CMS).
+  </span>
+</p>
+
+<br style="clear: both;" />
 ---
 
 <br />
