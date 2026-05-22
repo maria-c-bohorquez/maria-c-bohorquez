@@ -12,10 +12,10 @@
 <hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 15px 0;" />
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
   <tr>
-    <td align="left" style="font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 5px 0;">
-      <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 30px;">Projects</a>
-      <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 30px;">Resume</a>
-      <a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: none;">Contact</a>
+    <td align="left" style="font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 35px;">
+      <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 50px;">◼ Projects</a>
+      <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 50px;">☷ Resume</a>
+      <a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: none;">✉ Contact</a>
     </td>
   </tr>
 </table>
