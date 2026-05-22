@@ -7,19 +7,31 @@
   <span style="font-size: 13px; font-weight: 700; letter-spacing: 1.5px; color: #71717a; text-transform: uppercase;">Certified Product Manager</span>
 </p>
 
+<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 10px 0;" />
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
   <tr>
-    <td align="left" style="font-size: 14px; font-weight: 600; padding: 15px;">
+    <td align="left" style="font-size: 14px; font-weight: 600; padding: 5px 0;">
       <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 25px;">📁 Projects</a>
       <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 25px;">📄 Resume</a>
       <a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: none;">📥 Contact</a>
     </td>
   </tr>
 </table>
+<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 10px 0 25px 0;" />
 
-<p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #3f3f46; max-width: 680px;">
-  I don’t just manage products—<b>I tame complex systems.</b> Where others see operational friction, unstructured data, or chaotic workflows, I see an optimization puzzle waiting to be solved. My professional baseline is a relentless drive to streamline processes, maximize resources, and transform manual headaches into scalable, digital realities.
-</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
+  <tr>
+    <td width="72%" valign="top" align="left">
+      <h2 style="font-size: 22px; font-weight: 700; color: #111111; margin-top: 0; margin-bottom: 15px;">Hey, I'm Maria!</h2>
+      <p style="font-size: 16px; line-height: 1.6; color: #3f3f46; margin: 0; padding-right: 20px;">
+        I don’t just manage products—<b>I tame complex systems.</b> Where others see operational friction, unstructured data, or chaotic workflows, I see an optimization puzzle waiting to be solved. My professional baseline is a relentless drive to streamline processes, maximize resources, and transform manual headaches into scalable, digital realities.
+      </p>
+    </td>
+    <td width="28%" valign="top" align="right">
+      <img src="YOUR_IMAGE_URL_HERE" alt="Maria Camila Bohorquez" width="160" style="border-radius: 6px; display: block; object-fit: cover;" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
