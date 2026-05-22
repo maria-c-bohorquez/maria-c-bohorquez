@@ -1,31 +1,28 @@
 <br />
+<h1 align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 800; letter-spacing: -1px; color: #111111; margin-top: 0; margin-bottom: 5px;">
+  Maria Camila Bohorquez
+</h1>
+
+<p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 0; margin-bottom: 15px;">
+  <span style="font-size: 13px; font-weight: 700; letter-spacing: 1.5px; color: #71717a; text-transform: uppercase;">Certified Product Manager</span>
+</p>
+
+<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 10px 0;" />
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
   <tr>
-    <td align="left" style="font-size: 14px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">
+    <td align="left" style="font-size: 14px; font-weight: 600; padding: 5px 0;">
       <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 25px;">📁 Projects</a>
       <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 25px;">📄 Resume</a>
       <a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: none;">📥 Contact</a>
     </td>
   </tr>
 </table>
-
-<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 20px 0 40px 0;" />
-
-<p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <span style="font-size: 13px; font-weight: 700; letter-spacing: 2px; color: #71717a; text-transform: uppercase;">Product Management Portfolio</span>
-</p>
-
-<h1 align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 38px; font-weight: 800; letter-spacing: -1px; line-height: 1.2; color: #111111; margin-top: 10px; margin-bottom: 20px;">
-  Hello, I'm Maria. <br />
-  A Product Manager who thrives <br />
-  where chaos meets code.
-</h1>
+<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 10px 0 25px 0;" />
 
 <p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #3f3f46; max-width: 680px;">
   I don’t just manage products—<b>I tame complex systems.</b> Where others see operational friction, unstructured data, or chaotic workflows, I see an optimization puzzle waiting to be solved. My professional baseline is a relentless drive to streamline processes, maximize resources, and transform manual headaches into scalable, digital realities.
 </p>
 
-<br />
 <br />
 
 ---
