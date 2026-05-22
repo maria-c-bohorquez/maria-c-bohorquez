@@ -7,7 +7,6 @@
   <span style="font-size: 13px; font-weight: 700; letter-spacing: 1.5px; color: #71717a; text-transform: uppercase;">Certified Product Manager</span>
 </p>
 
-<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 10px 0;" />
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
   <tr>
     <td align="left" style="font-size: 14px; font-weight: 600; padding: 15px;">
@@ -17,7 +16,6 @@
     </td>
   </tr>
 </table>
-<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 10px 0 25px 0;" />
 
 <p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #3f3f46; max-width: 680px;">
   I don’t just manage products—<b>I tame complex systems.</b> Where others see operational friction, unstructured data, or chaotic workflows, I see an optimization puzzle waiting to be solved. My professional baseline is a relentless drive to streamline processes, maximize resources, and transform manual headaches into scalable, digital realities.
