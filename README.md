@@ -41,18 +41,44 @@
 
 <br />
 
-### 🔍 Chaos to Order (The System Optimizer)
-I have an innate drive to walk into disorganized environments and build structural clarity. Whether it is diagnosing an asset pipeline bottleneck at a major gaming studio or building a digital lead capture workflow for a small business, I focus on stripping away manual friction so teams can execute without frustration.
+<div style="display: flex; flex-wrap: wrap; gap: 25px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 
-### 🧱 Hands-on QA & User Translation
-I sit comfortably at the intersection of users and developers. Rather than managing abstract engineering lifecycles, my strength lies in practical software validation: conducting manual QA testing, translating real-world user friction into clear technical specifications, and managing the functional backlog via JIRA to ensure developers have the precise context they need to ship fixes.
+  <div style="flex: 1 1 calc(50% - 25px); min-width: 280px; box-sizing: border-box;">
+    <h4 style="font-size: 18px; font-weight: 700; color: #111111; margin-top: 0; margin-bottom: 10px;">🔍 Chaos to Order (The System Optimizer)</h4>
+    <p style="font-size: 15px; line-height: 1.6; color: #3f3f46; margin: 0;">
+      I have an innate drive to walk into disorganized environments and build structural clarity. Whether it is diagnosing an asset pipeline bottleneck at a major gaming studio or building a digital lead capture workflow for a small business, I focus on stripping away manual friction so teams can execute without frustration.
+    </p>
+  </div>
 
-### 📈 Resource & Operational Efficiency
-I evaluate product workflows through an optimization lens rather than purely visual metrics. I look for high-yield, low-overhead solutions—like maximizing existing enterprise tools (DAM/CMS architectures), mitigating data risks before major feature launches, and protecting brand integrity to ensure operational habits back up business goals.
+  <div style="flex: 1 1 calc(50% - 25px); min-width: 280px; box-sizing: border-box;">
+    <h4 style="font-size: 18px; font-weight: 700; color: #111111; margin-top: 0; margin-bottom: 10px;">🧱 Hands-on QA & User Translation</h4>
+    <p style="font-size: 15px; line-height: 1.6; color: #3f3f46; margin: 0;">
+      I sit comfortably at the intersection of users and developers. Rather than managing abstract engineering lifecycles, my strength lies in practical software validation: conducting manual QA testing, translating real-world user friction into clear technical specifications, and managing the functional backlog via JIRA to ensure developers have the precise context they need to ship fixes.
+    </p>
+  </div>
 
-### 🤝 Cross-Functional Communication & User Empathy
-A product only succeeds if the people surrounding it are aligned. I excel at acting as a connective bridge: conducting qualitative interviews with stakeholders to uncover deep operational pain points, building consensus across distinct departments, and leading engaging platform demonstrations to drive software adoption.
+  <div style="flex: 1 1 calc(50% - 25px); min-width: 280px; box-sizing: border-box;">
+    <h4 style="font-size: 18px; font-weight: 700; color: #111111; margin-top: 0; margin-bottom: 10px;">📈 Resource & Operational Efficiency</h4>
+    <p style="font-size: 15px; line-height: 1.6; color: #3f3f46; margin: 0;">
+      I evaluate product workflows through an optimization lens rather than purely visual metrics. I look for high-yield, low-overhead solutions—like maximizing existing enterprise tools (DAM/CMS architectures), mitigating data risks before major feature launches, and protecting brand integrity to ensure operational habits back up business goals.
+    </p>
+  </div>
 
+  <div style="flex: 1 1 calc(50% - 25px); min-width: 280px; box-sizing: border-box;">
+    <h4 style="font-size: 18px; font-weight: 700; color: #111111; margin-top: 0; margin-bottom: 10px;">🤝 Cross-Functional Communication & User Empathy</h4>
+    <p style="font-size: 15px; line-height: 1.6; color: #3f3f46; margin: 0;">
+      A product only succeeds if the people surrounding it are aligned. I excel at acting as a connective bridge: conducting qualitative interviews with stakeholders to uncover deep operational pain points, building consensus across distinct departments, and leading engaging platform demonstrations to drive software adoption.
+    </p>
+  </div>
+
+</div>
+
+<br />
+<br />
+
+---
+
+---
 <br />
 <br />
 
