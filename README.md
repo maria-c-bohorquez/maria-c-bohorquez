@@ -28,7 +28,7 @@
       </p>
     </td>
     <td width="28%" valign="top" align="right">
-      <img src="YOUR_IMAGE_URL_HERE" alt="Maria Camila Bohorquez" width="160" style="border-radius: 6px; display: block; object-fit: cover;" />
+      <img src="maria.jpg" alt="Maria Camila Bohorquez" width="160" style="border-radius: 6px; display: block; object-fit: cover;" />
     </td>
   </tr>
 </table>
